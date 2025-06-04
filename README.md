@@ -4,10 +4,11 @@ This project is part of the **FreeCodeCamp Relational Database Certification**, 
 
 ## 📁 Project Contents
 
-- `student.csv` – CSV file containing student data.
-- `courses.csv` – CSV file containing course information.
-- `students.sql` – SQL file used to create the database schema and tables.
-- `insert_data.sh` – Bash script used to import CSV data into the database using `psql`.
+- 📁 Inserting Data
+-- `student.csv` – CSV file containing student data.
+-- `courses.csv` – CSV file containing course information.
+-- `students.sql` – SQL file used to create the database schema and tables.
+-- `insert_data.sh` – Bash script used to import CSV data into the database using `psql`.
 
 ---
 
